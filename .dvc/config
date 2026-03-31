@@ -1,4 +1,4 @@
 [core]
     remote = myremote
 ['remote "myremote"']
-    url = /Users/nbgdeveloper/Google Drive/My Drive/dvc_storage
+    url = /Users/nbgdeveloper/Google Drive/My Drive/dogcat_dataset
